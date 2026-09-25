@@ -1,0 +1,12 @@
+{
+  "java.import.gradle.enabled": false,
+  "java.import.exclusions": [
+    "**/node_modules/**",
+    "**/.metadata/**",
+    "**/android/**",
+    "**/ios/**"
+  ],
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.import.gradle.java.home": "C:/DEV/Android_Studio/jbr",
+  "gradle.nestedProjects": false
+}
